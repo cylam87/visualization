@@ -1,0 +1,78 @@
+ACTIVITY 1: assessing data visualizations (01_course_intro, slide 17) 
+
+Figure on slide 18: 
+Nice to look at? 
+- yes, colorful and 3D
+
+Accurate? 
+- no, the shadows are unnecessary 
+- slant makes it impossible to determine the values accurate
+- title (“life expectancy: 2007”) is terrible and uninformative
+- axis labels are unintuitive (intervals of 22.5)
+- legend and y-axis labels are redundant
+
+Message? 
+- Most continents have similar life expectancies while Africa significantly lags behind
+
+Overall good or bad? 
+- No
+
+
+Figure on slide 19: 
+Nice to look at? 
+- Yes, eye catching and intuitively represents the stance/argument
+
+Accurate? 
+- no, hard to read due to the slant + curve 
+
+Message? 
+- House & Senate expenditures has been increasing drastically 
+
+Overall good or bad? 
+- Bad
+
+
+Figure on slide 20: 
+Nice to look at? 
+- no, no differentiation between lines 
+
+Accurate? 
+- mathematically yes
+
+Message? 
+- no clue, something is increasing exponentially with time 
+- no labels, so no idea what X and Y is 
+- no legend, so no idea what the two lines represent 
+- but aspect ratio can subtly influence the interpretation of the message
+
+Overall good or bad? 
+- bad, no message can be gleaned
+
+
+Figure on slide 21: 
+Nice to look at? 
+- no, the green and white are hard to distinguish
+
+Accurate? 
+- yes
+
+Message? 
+- no context, the three candidates are doing similarly well but Palin is leading 
+- why do %s add up to >100?
+
+Overall good or bad? 
+- average
+
+
+Figure on slide 22: 
+Nice to look at? 
+- yes
+
+Accurate? 
+- hard to distinguish between different wind speeds, using different colors may be better 
+
+Message? 
+- wind is much greater in central US than the east
+
+Overall good or bad? 
+- good

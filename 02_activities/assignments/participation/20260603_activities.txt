@@ -1,0 +1,14 @@
+ACTIVITY 1: assessing data visualizations (04_choosing_the_right_visualization.pdf, slide 10) 
+
+Figure on slide 11: 
+info learned? a lot of gun killings occurred in the US in 2018, and many years were ‘stolen’ (i.e. ppl died prematurely)
+
+objective/neutral? why? no, ‘stolen years’ is a loaded term and the accuracy of the expected lifespan and ultimate cause of death is questionable. language and data presentation (esp. showing stolen years as a cumulative rather than average figure) is not objective and intended to capture attention / invoke emotional response
+
+
+
+
+Figure on slide 12: 
+info learned? number of active shooter incidents has increased substantially between 2000 and 2015. 
+
+objective/neutral? yes, neutral language; neutral color palette; data is presented in simple, clear and objective manner. 
