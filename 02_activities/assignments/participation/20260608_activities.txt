@@ -1,0 +1,13 @@
+ACTIVITY 1: commenting on code (03_reproducible_visualization.pdf, slide 21) 
+
+What information is it helpful to include?
+- explanations for what the functions do 
+- description of parameters and arguments 
+- reasoning behind coding or design choices
+- alternative methods to reach the same outcome 
+- explain why some parts of the code was commented out 
+- metadata e.g. version #
+
+How do you write a ‘good’ comment?
+- anything that makes it easier to understand the code 
+- clear and concise 
