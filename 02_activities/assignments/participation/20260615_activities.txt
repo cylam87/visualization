@@ -1,0 +1,17 @@
+ACTIVITY 1: rational, moral and emotional appeal (08_data_viz_as_advocacy.pdf, slide 12) 
+
+How did the figure use rational, moral and emotional appeal? 
+- rational: very specific numbers are given (# of slaves in each space) 
+- moral: appeals to our moral compass on human rights and our expectations of how humans should treat each other; the text in the top right talks about legality of this practice
+- emotional: empathy, injustice
+
+
+ACTIVITY 2: types of change on dynamic visualizations (09_beyond_matplotlib.pdf, slide 32) 
+
+Types of changes that occur when you interact with this dynamic visualization? 
+- transitional or immediate - when you input a different term, the order of the Y axis shifts and the scale of the X axis changes, so could be immediate
+- but X and Y stay the same (uses vs discipline), so could argue for transitional
+
+What spatial and retinal elements stay constant and what elements change? 
+- retinal elements (colors, size, brightness) stay same
+- spatial elements (order, x axis scale) changes

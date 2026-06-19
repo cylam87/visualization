@@ -1,0 +1,23 @@
+ACTIVITY 1: accessible visualizations (06_accessible_data_visualization.pdf, slide 11) 
+
+In what ways is the visualization inaccessible, and to whom? 
+- no values in axes - no idea about # of cases on y axis or timeline of x axis 
+- red text is readable for red-green color blindness, but won’t be highlighted
+the ‘uncontrolled transmission’ curve is shaded but it’s not clear why the color is darker near the top 
+- text can’t be read by computer’s text reader, so no alt text can be generated for those who need it (and there’s no figure legend/caption)
+- text is somewhat blurry = hard to read
+- lots of different fonts (typeface, bold, colors, font size, caps) is confusing for viewers (increases cognitive load)
+
+
+ACTIVITY 2: alt text (06_accessible_data_visualization.pdf, slide 35) 
+Suitable alt text for the image? 
+- a woman in lab coat and a man in a shirt hold a discussion in a laboratory setting 
+ -not a good idea to mention the fume hood (not simple language)
+- should their names be mentioned, if known? depends on if it’s important in the context of the image - is it a news article about the PI who’s posing for the photo? or just a stock photo with no particular context?
+
+ACTIVITY 3: four types of descriptive content (06_accessible_data_visualization.pdf, slide 39) 
+Describe the figure based on 4 types of descriptive content? 
+1. famous persons on y-axis, time of day on x-axis
+2. most time is spent sleeping or on creative work
+3. most of them have regular sleep schedules 
+4. their routines are related to their careers
